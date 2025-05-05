@@ -29,3 +29,9 @@ Findings:\
 	\'95	Monte Carlo methods were robust in model-free settings but required more episodes to converge\
 \
 Technologies Used: Python, NumPy, Matplotlib, OpenAI Gym (custom), Jupyter Notebook}
+
+## Contributors
+- Juan Navarro — s1097545  
+- Luca Laber — s1089333  
+- Konstantinos Konstantinou — s1118596  
+- Levente Bódi — s1122062  
